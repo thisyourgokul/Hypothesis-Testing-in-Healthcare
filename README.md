@@ -1,6 +1,8 @@
 # Hypothesis-Testing-in-Healthcare
 Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant!
 
+Workspace Link: https://app.datacamp.com/workspace/w/b6d868dd-b6fa-4dff-8a2c-862edf2d4c37/edit
+
 
 Project Description:
 
